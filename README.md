@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @n-muldoon
 - 👀 I’m interested in Bioinformatics, Data Science with Biological Applications, Machine Learning
 - 🌱 I’m currently learning bulk/single-cell sequencing Data Analysis
-- 📫 How to reach me: amuldoon1@fordham.edu
+- 📫 How to reach me: amuldoon@bu.edu
 - 😄 Pronouns: she/her/hers
 
 <!---
